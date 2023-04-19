@@ -777,7 +777,7 @@
 - [Mental Health](https://github.com/dreamingechoes/awesome-mental-health#readme) - Mental health awareness and self-care in the software industry.
 - [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience#readme) - Study of the nervous system and brain.
 - [Digital Humanities](https://github.com/dh-tech/awesome-digital-humanities#readme) - Software for humanities scholars using quantitative or computational methods.
-- [DICOM](https://github.com/open-dicom/awesome-dicom) - The international standard for medical images and related information.
+- [DICOM](https://github.com/open-dicom/awesome-dicom#readme) - The international standard for medical images and related information.
 
 ## Events
 
